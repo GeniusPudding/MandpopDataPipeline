@@ -1,0 +1,22 @@
+{
+  "title": "會呼吸的痛",
+  "artist": "梁靜茹  Fish Leong ",
+  "category": "mandarin_pop",
+  "duration_sec": 273.0,
+  "key_offset": -5,
+  "gender_variant": null,
+  "youtube_url": "https://www.youtube.com/watch?v=TY3nj5ANRrk",
+  "youtube_title": "會呼吸的痛",
+  "view_count": 10593411,
+  "separation_model": "htdemucs_ft",
+  "files": {
+    "instrumental": "instrumental.wav",
+    "vocals": "vocals.wav",
+    "original": "original.mp3"
+  },
+  "lyrics": {
+    "source": "netease",
+    "has_timestamps": true
+  },
+  "built_at": "2026-04-23T01:55:01.399847"
+}

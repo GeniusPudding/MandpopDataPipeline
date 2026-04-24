@@ -1,0 +1,22 @@
+{
+  "title": "無條件為你",
+  "artist": "滾石唱片 ROCK RECORDS",
+  "category": "mandarin_pop",
+  "duration_sec": 261.0,
+  "key_offset": 0,
+  "gender_variant": null,
+  "youtube_url": "https://www.youtube.com/watch?v=XPD-0b66Wv4",
+  "youtube_title": "梁靜茹 Fish Leong【無條件為你 Unconditionally for you】中視「貞女烈女豪放女」主題曲 Official Music Video",
+  "view_count": 19551018,
+  "separation_model": "htdemucs_ft",
+  "files": {
+    "instrumental": "instrumental.wav",
+    "vocals": "vocals.wav",
+    "original": "original.mp3"
+  },
+  "lyrics": {
+    "source": "netease",
+    "has_timestamps": true
+  },
+  "built_at": "2026-04-23T01:55:25.868060"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "最後的戰役",
+  "artist": "周杰倫 Jay Chou",
+  "category": "mandarin_pop",
+  "duration_sec": 344.0,
+  "key_offset": 0,
+  "gender_variant": null,
+  "youtube_url": "https://www.youtube.com/watch?v=ZcShYmOhHM0",
+  "youtube_title": "周杰倫 Jay Chou【最後的戰役 The Final Battle】Official MV",
+  "view_count": 5249052,
+  "separation_model": "htdemucs_ft",
+  "files": {
+    "instrumental": "instrumental.wav",
+    "vocals": "vocals.wav",
+    "original": "original.mp3"
+  },
+  "lyrics": {},
+  "built_at": "2026-04-23T01:54:57.858126"
+}

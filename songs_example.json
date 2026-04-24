@@ -1,0 +1,10 @@
+{
+  "description": "Example song list — copy to songs.json and edit",
+  "songs": [
+    {"title": "告白氣球"},
+    {"title": "小幸運"},
+    {"title": "演員"},
+    {"title": "光年之外"},
+    {"title": "起風了"}
+  ]
+}

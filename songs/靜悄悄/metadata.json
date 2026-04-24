@@ -1,0 +1,19 @@
+{
+  "title": "靜悄悄",
+  "artist": "EHPMusicChannel",
+  "category": "mandarin_pop",
+  "duration_sec": 187.0,
+  "key_offset": 0,
+  "gender_variant": null,
+  "youtube_url": "https://www.youtube.com/watch?v=FnV5wmmU0JM",
+  "youtube_title": "大泫 - 靜悄悄『我害怕這是夢境，不小心會驚醒。』【動態歌詞Lyrics】",
+  "view_count": 39743617,
+  "separation_model": "htdemucs_ft",
+  "files": {
+    "instrumental": "instrumental.wav",
+    "vocals": "vocals.wav",
+    "original": "original.mp3"
+  },
+  "lyrics": {},
+  "built_at": "2026-04-23T01:56:19.477876"
+}

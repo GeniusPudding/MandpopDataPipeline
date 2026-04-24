@@ -1,0 +1,22 @@
+{
+  "title": "落葉歸根",
+  "artist": "王力宏 Wang Leehom",
+  "category": "mandarin_pop",
+  "duration_sec": 320.0,
+  "key_offset": 0,
+  "gender_variant": null,
+  "youtube_url": "https://www.youtube.com/watch?v=ElSO_8jo8yE",
+  "youtube_title": "王力宏 Leehom Wang - 落葉歸根",
+  "view_count": 8450320,
+  "separation_model": "htdemucs_ft",
+  "files": {
+    "instrumental": "instrumental.wav",
+    "vocals": "vocals.wav",
+    "original": "original.mp3"
+  },
+  "lyrics": {
+    "source": "netease",
+    "has_timestamps": true
+  },
+  "built_at": "2026-04-23T01:55:54.451083"
+}

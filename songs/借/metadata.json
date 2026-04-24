@@ -1,0 +1,22 @@
+{
+  "title": "借",
+  "artist": "4K Music Make",
+  "category": "mandarin_pop",
+  "duration_sec": 240.0,
+  "key_offset": 0,
+  "gender_variant": null,
+  "youtube_url": "https://www.youtube.com/watch?v=0TvdMKPLjQc",
+  "youtube_title": "en - 借一場雨『我想藉一場雨落在你的屋簷 聽窗外滴答滴那是我的思念，等雨過晴天就消失不見。』【高音質|動態歌詞Lyrics】♫",
+  "view_count": 10564917,
+  "separation_model": "htdemucs_ft",
+  "files": {
+    "instrumental": "instrumental.wav",
+    "vocals": "vocals.wav",
+    "original": "original.mp3"
+  },
+  "lyrics": {
+    "source": "netease",
+    "has_timestamps": true
+  },
+  "built_at": "2026-04-23T01:53:23.558565"
+}

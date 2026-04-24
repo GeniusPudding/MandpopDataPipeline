@@ -1,0 +1,22 @@
+{
+  "title": "如果可以",
+  "artist": "韋禮安 WeiBird",
+  "category": "mandarin_pop",
+  "duration_sec": 275.0,
+  "key_offset": 0,
+  "gender_variant": null,
+  "youtube_url": "https://www.youtube.com/watch?v=8MG--WuNW1Y",
+  "youtube_title": "韋禮安 WeiBird《如果可以 Red Scarf》MV - 電影「月老」主題曲導演親剪音樂視角版",
+  "view_count": 199707294,
+  "separation_model": "htdemucs_ft",
+  "files": {
+    "instrumental": "instrumental.wav",
+    "vocals": "vocals.wav",
+    "original": "original.mp3"
+  },
+  "lyrics": {
+    "source": "netease",
+    "has_timestamps": true
+  },
+  "built_at": "2026-04-23T01:54:03.661209"
+}

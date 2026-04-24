@@ -1,0 +1,22 @@
+{
+  "title": "牆外的風景",
+  "artist": "Namewee",
+  "category": "mandarin_pop",
+  "duration_sec": 310.0,
+  "key_offset": 0,
+  "gender_variant": null,
+  "youtube_url": "https://www.youtube.com/watch?v=WCLlFA9SiDI",
+  "youtube_title": "黃明志【牆外】Ft. 小花 (Official Music Video)",
+  "view_count": 17277743,
+  "separation_model": "htdemucs_ft",
+  "files": {
+    "instrumental": "instrumental.wav",
+    "vocals": "vocals.wav",
+    "original": "original.mp3"
+  },
+  "lyrics": {
+    "source": "netease",
+    "has_timestamps": true
+  },
+  "built_at": "2026-04-23T01:55:28.116860"
+}

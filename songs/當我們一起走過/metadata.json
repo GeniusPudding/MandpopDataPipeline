@@ -1,0 +1,22 @@
+{
+  "title": "當我們一起走過",
+  "artist": "蘇打綠 sodagreen",
+  "category": "mandarin_pop",
+  "duration_sec": 285.0,
+  "key_offset": 0,
+  "gender_variant": null,
+  "youtube_url": "https://www.youtube.com/watch?v=tAWPPcPaiQo",
+  "youtube_title": "蘇打綠 sodagreen -【當我們一起走過】Official Music Video",
+  "view_count": 34040598,
+  "separation_model": "htdemucs_ft",
+  "files": {
+    "instrumental": "instrumental.wav",
+    "vocals": "vocals.wav",
+    "original": "original.mp3"
+  },
+  "lyrics": {
+    "source": "netease",
+    "has_timestamps": true
+  },
+  "built_at": "2026-04-23T01:55:28.682376"
+}

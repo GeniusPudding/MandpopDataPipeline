@@ -1,0 +1,22 @@
+{
+  "title": "一點點",
+  "artist": "周杰倫 Jay Chou",
+  "category": "mandarin_pop",
+  "duration_sec": 220.0,
+  "key_offset": 0,
+  "gender_variant": null,
+  "youtube_url": "https://www.youtube.com/watch?v=COhiu3c7Sgc",
+  "youtube_title": "周杰倫 Jay Chou【一點點 A Little Bit】Official MV",
+  "view_count": 10537528,
+  "separation_model": "htdemucs_ft",
+  "files": {
+    "instrumental": "instrumental.wav",
+    "vocals": "vocals.wav",
+    "original": "original.mp3"
+  },
+  "lyrics": {
+    "source": "netease",
+    "has_timestamps": true
+  },
+  "built_at": "2026-04-23T01:53:05.655725"
+}

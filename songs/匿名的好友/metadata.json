@@ -1,0 +1,22 @@
+{
+  "title": "匿名的好友",
+  "artist": "Rainie Yang's Official Channel楊丞琳官方專屬頻道",
+  "category": "mandarin_pop",
+  "duration_sec": 259.0,
+  "key_offset": -5,
+  "gender_variant": null,
+  "youtube_url": "https://www.youtube.com/watch?v=s9hGDIpwfXw",
+  "youtube_title": "楊丞琳 Rainie Yang - 匿名的好友",
+  "view_count": 17667431,
+  "separation_model": "htdemucs_ft",
+  "files": {
+    "instrumental": "instrumental.wav",
+    "vocals": "vocals.wav",
+    "original": "original.mp3"
+  },
+  "lyrics": {
+    "source": "netease",
+    "has_timestamps": true
+  },
+  "built_at": "2026-04-23T01:53:37.757602"
+}

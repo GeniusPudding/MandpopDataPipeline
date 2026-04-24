@@ -1,0 +1,22 @@
+{
+  "title": "浪費",
+  "artist": "華研國際",
+  "category": "mandarin_pop",
+  "duration_sec": 306.0,
+  "key_offset": 0,
+  "gender_variant": null,
+  "youtube_url": "https://www.youtube.com/watch?v=LTzy8NF3BDo",
+  "youtube_title": "林宥嘉Yoga Lin [浪費 Unrequited] Official MV HD",
+  "view_count": 36557354,
+  "separation_model": "htdemucs_ft",
+  "files": {
+    "instrumental": "instrumental.wav",
+    "vocals": "vocals.wav",
+    "original": "original.mp3"
+  },
+  "lyrics": {
+    "source": "netease",
+    "has_timestamps": true
+  },
+  "built_at": "2026-04-23T01:55:14.143315"
+}

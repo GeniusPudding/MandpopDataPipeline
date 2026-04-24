@@ -1,0 +1,22 @@
+{
+  "title": "你不知道的事",
+  "artist": "湖南卫视芒果TV官方频道  China HunanTV Official Channel",
+  "category": "mandarin_pop",
+  "duration_sec": 283.0,
+  "key_offset": 0,
+  "gender_variant": null,
+  "youtube_url": "https://www.youtube.com/watch?v=hfugNPTrfAM",
+  "youtube_title": "【纯享】张信哲＆周兴哲《你不知道的事》两人歌声交织出新的情感，将诉不尽又道不明的苦情思揉尽歌曲中｜声生不息宝岛季 EP8 Infinity and Beyond 2023 | MangoTV",
+  "view_count": 12515064,
+  "separation_model": "htdemucs_ft",
+  "files": {
+    "instrumental": "instrumental.wav",
+    "vocals": "vocals.wav",
+    "original": "original.mp3"
+  },
+  "lyrics": {
+    "source": "netease",
+    "has_timestamps": true
+  },
+  "built_at": "2026-04-23T01:53:17.879719"
+}

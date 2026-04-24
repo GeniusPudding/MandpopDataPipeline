@@ -1,0 +1,22 @@
+{
+  "title": "我好想你",
+  "artist": "蘇打綠 sodagreen",
+  "category": "mandarin_pop",
+  "duration_sec": 327.0,
+  "key_offset": 0,
+  "gender_variant": null,
+  "youtube_url": "https://www.youtube.com/watch?v=P_pyfLArjQg",
+  "youtube_title": "蘇打綠 sodagreen - 【我好想你】「小時代」電影主題曲MV",
+  "view_count": 77539819,
+  "separation_model": "htdemucs_ft",
+  "files": {
+    "instrumental": "instrumental.wav",
+    "vocals": "vocals.wav",
+    "original": "original.mp3"
+  },
+  "lyrics": {
+    "source": "netease",
+    "has_timestamps": true
+  },
+  "built_at": "2026-04-23T01:54:41.763697"
+}

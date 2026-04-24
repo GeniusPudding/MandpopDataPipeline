@@ -1,0 +1,22 @@
+{
+  "title": "像我這樣的人",
+  "artist": "浙江卫视音乐频道 ZJSTV Music Channel - 欢迎订阅 -",
+  "category": "mandarin_pop",
+  "duration_sec": 320.0,
+  "key_offset": 0,
+  "gender_variant": null,
+  "youtube_url": "https://www.youtube.com/watch?v=_SUwUaP14Gs",
+  "youtube_title": "[ CLIP ] JJ林俊杰飙高音改编毛不易名曲《像我这样的人》满满的霸气帝王感！《梦想的声音3》EP9 20181221 /浙江卫视官方音乐HD/",
+  "view_count": 6754663,
+  "separation_model": "htdemucs_ft",
+  "files": {
+    "instrumental": "instrumental.wav",
+    "vocals": "vocals.wav",
+    "original": "original.mp3"
+  },
+  "lyrics": {
+    "source": "netease",
+    "has_timestamps": true
+  },
+  "built_at": "2026-04-23T01:53:24.051900"
+}

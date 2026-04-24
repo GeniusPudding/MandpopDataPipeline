@@ -1,0 +1,22 @@
+{
+  "title": "紳士",
+  "artist": "FamilyOyoung",
+  "category": "mandarin_pop",
+  "duration_sec": 325.0,
+  "key_offset": 0,
+  "gender_variant": null,
+  "youtube_url": "https://www.youtube.com/watch?v=HzL2hZYUIgA",
+  "youtube_title": "薛之謙 & 歐陽娜娜 《紳士》完整版",
+  "view_count": 2699454,
+  "separation_model": "htdemucs_ft",
+  "files": {
+    "instrumental": "instrumental.wav",
+    "vocals": "vocals.wav",
+    "original": "original.mp3"
+  },
+  "lyrics": {
+    "source": "netease",
+    "has_timestamps": true
+  },
+  "built_at": "2026-04-23T01:55:43.647943"
+}

@@ -1,0 +1,7 @@
+yt-dlp
+demucs
+soundfile
+numpy
+requests
+beautifulsoup4
+python-dotenv

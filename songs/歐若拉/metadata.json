@@ -1,0 +1,22 @@
+{
+  "title": "歐若拉",
+  "artist": "AURORA",
+  "category": "mandarin_pop",
+  "duration_sec": 202.0,
+  "key_offset": -4,
+  "gender_variant": "female",
+  "youtube_url": "https://www.youtube.com/watch?v=K17df81RL9Y",
+  "youtube_title": "AURORA - Cure For Me",
+  "view_count": 162148861,
+  "separation_model": "htdemucs_ft",
+  "files": {
+    "instrumental": "instrumental.wav",
+    "vocals": "vocals.wav",
+    "original": "original.mp3"
+  },
+  "lyrics": {
+    "source": "netease",
+    "has_timestamps": true
+  },
+  "built_at": "2026-04-23T01:55:13.385614"
+}

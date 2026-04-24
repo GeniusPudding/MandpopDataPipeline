@@ -1,0 +1,22 @@
+{
+  "title": "給你給我",
+  "artist": "CPC Music Channel",
+  "category": "mandarin_pop",
+  "duration_sec": 245.0,
+  "key_offset": 0,
+  "gender_variant": null,
+  "youtube_url": "https://www.youtube.com/watch?v=0r1ct8L_i_A",
+  "youtube_title": "【MV】毛不易 - 给你给我 《一生一世》暖心插曲 #给你我微不足道所有的所有",
+  "view_count": 6912570,
+  "separation_model": "htdemucs_ft",
+  "files": {
+    "instrumental": "instrumental.wav",
+    "vocals": "vocals.wav",
+    "original": "original.mp3"
+  },
+  "lyrics": {
+    "source": "netease",
+    "has_timestamps": true
+  },
+  "built_at": "2026-04-23T01:55:43.775930"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "情歌",
+  "artist": "4Leaf Music",
+  "category": "mandarin_pop",
+  "duration_sec": 257.0,
+  "key_offset": -5,
+  "gender_variant": null,
+  "youtube_url": "https://www.youtube.com/watch?v=yn3js31DDzg",
+  "youtube_title": "盧盧快閉嘴 - 情歌「你寫給我 我的第一首歌 你和我 十指緊扣 默寫前奏」【動態歌詞】♪",
+  "view_count": 26994408,
+  "separation_model": "htdemucs_ft",
+  "files": {
+    "instrumental": "instrumental.wav",
+    "vocals": "vocals.wav",
+    "original": "original.mp3"
+  },
+  "lyrics": {
+    "source": "netease",
+    "has_timestamps": true
+  },
+  "built_at": "2026-04-23T01:54:25.392673"
+}

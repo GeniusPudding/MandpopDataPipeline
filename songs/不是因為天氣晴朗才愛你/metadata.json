@@ -1,0 +1,22 @@
+{
+  "title": "不是因為天氣晴朗才愛你",
+  "artist": "動力火車 Power Station官方專屬頻道",
+  "category": "mandarin_pop",
+  "duration_sec": 218.0,
+  "key_offset": 0,
+  "gender_variant": null,
+  "youtube_url": "https://www.youtube.com/watch?v=J98u6klc2eg",
+  "youtube_title": "〔動力火車/顏志琳〕-理想混蛋《不是因為天氣晴朗才愛你》",
+  "view_count": 1125684,
+  "separation_model": "htdemucs_ft",
+  "files": {
+    "instrumental": "instrumental.wav",
+    "vocals": "vocals.wav",
+    "original": "original.mp3"
+  },
+  "lyrics": {
+    "source": "netease",
+    "has_timestamps": true
+  },
+  "built_at": "2026-04-23T01:53:06.086715"
+}

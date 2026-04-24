@@ -1,0 +1,2818 @@
+{
+  "name": "MandpopDataset",
+  "description": "Mandarin pop karaoke dataset: vocal-separated instrumentals + lyrics",
+  "version": 1,
+  "built_at": "2026-04-23T02:08:52.022571",
+  "separation_model": "htdemucs_ft",
+  "song_count": 156,
+  "songs": [
+    {
+      "title": "K歌之王",
+      "artist": "英皇娛樂 eeg music",
+      "category": "mandarin_pop",
+      "duration_sec": 232.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=Iw3WgP8A18I",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "一直很安靜",
+      "artist": "EHPMusicChannel",
+      "category": "mandarin_pop",
+      "duration_sec": 207.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=9apxVjMDtS8",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "一葷一素",
+      "artist": "芒果TV季风频道 MangoTV Monsoon",
+      "category": "mandarin_pop",
+      "duration_sec": 315.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=8DQYzIb2cX4",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "一路向北",
+      "artist": "周杰倫 Jay Chou",
+      "category": "mandarin_pop",
+      "duration_sec": 302.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=L229QDxDakU",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": false,
+        "lyrics_txt": false
+      },
+      "lyrics_source": null,
+      "has_timestamps": false
+    },
+    {
+      "title": "一點點",
+      "artist": "周杰倫 Jay Chou",
+      "category": "mandarin_pop",
+      "duration_sec": 220.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=COhiu3c7Sgc",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "下雨的夜晚",
+      "artist": "蘇打綠 sodagreen",
+      "category": "mandarin_pop",
+      "duration_sec": 283.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=2cCligRwFoI",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "不想懂得",
+      "artist": "福茂唱片",
+      "category": "mandarin_pop",
+      "duration_sec": 283.0,
+      "key_offset": -3,
+      "gender_variant": "female",
+      "youtube_url": "https://www.youtube.com/watch?v=YaJWn-Spxfc",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "不是因為天氣晴朗才愛你",
+      "artist": "動力火車 Power Station官方專屬頻道",
+      "category": "mandarin_pop",
+      "duration_sec": 218.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=J98u6klc2eg",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "不染",
+      "artist": "YOYOROCK 滾石移動",
+      "category": "mandarin_pop",
+      "duration_sec": 326.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=dDV36GmFP20",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "不為誰而作的歌",
+      "artist": "JJ Lin林俊傑",
+      "category": "mandarin_pop",
+      "duration_sec": 313.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=gd38-X3HpbM",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "不痛",
+      "artist": "芒果TV音乐 MangoTV Music",
+      "category": "mandarin_pop",
+      "duration_sec": 297.0,
+      "key_offset": -5,
+      "gender_variant": "female",
+      "youtube_url": "https://www.youtube.com/watch?v=Che-TaPS5OY",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "不能說的秘密",
+      "artist": "周杰倫 Jay Chou",
+      "category": "mandarin_pop",
+      "duration_sec": 336.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=uIWypArI73w",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": false,
+        "lyrics_txt": false
+      },
+      "lyrics_source": null,
+      "has_timestamps": false
+    },
+    {
+      "title": "不要說話",
+      "artist": "universalmusichk",
+      "category": "mandarin_pop",
+      "duration_sec": 282.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=Lzb33Ku8k_w",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "人海中遇見你",
+      "artist": "Spacebar",
+      "category": "mandarin_pop",
+      "duration_sec": 228.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=D-H_V9CsCvA",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "你不知道的事",
+      "artist": "湖南卫视芒果TV官方频道  China HunanTV Official Channel",
+      "category": "mandarin_pop",
+      "duration_sec": 283.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=hfugNPTrfAM",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "你好嗎",
+      "artist": "周興哲 Eric Chou",
+      "category": "mandarin_pop",
+      "duration_sec": 289.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=wSBXfzgqHtE",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "你還要我怎樣",
+      "artist": "浙江卫视音乐频道 ZJSTV Music Channel - 欢迎订阅 -",
+      "category": "mandarin_pop",
+      "duration_sec": 299.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=nKQsYyd1pZ0",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "倔強",
+      "artist": "滾石唱片 ROCK RECORDS",
+      "category": "mandarin_pop",
+      "duration_sec": 264.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=R2s-H_crYkc",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "借",
+      "artist": "4K Music Make",
+      "category": "mandarin_pop",
+      "duration_sec": 240.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=0TvdMKPLjQc",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "偶爾",
+      "artist": "福茂唱片",
+      "category": "mandarin_pop",
+      "duration_sec": 278.0,
+      "key_offset": -3,
+      "gender_variant": "female",
+      "youtube_url": "https://www.youtube.com/watch?v=-vzECKpBtAE",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "傻子",
+      "artist": "華研國際",
+      "category": "mandarin_pop",
+      "duration_sec": 215.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=xi6wOaZ61-U",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "像我這樣的人",
+      "artist": "浙江卫视音乐频道 ZJSTV Music Channel - 欢迎订阅 -",
+      "category": "mandarin_pop",
+      "duration_sec": 320.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=_SUwUaP14Gs",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "兄妹",
+      "artist": "大禾國際傳媒【Channel 1】 Harvest International Media",
+      "category": "mandarin_pop",
+      "duration_sec": 313.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=_P-VdZnqcRw",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "光年之外",
+      "artist": "GEM鄧紫棋",
+      "category": "mandarin_pop",
+      "duration_sec": 236.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=T4SimnaiktU",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "全世界失眠",
+      "artist": "evantile",
+      "category": "mandarin_pop",
+      "duration_sec": 266.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=kwFU6m1aTtU",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "其實很愛你",
+      "artist": "Timeless Music",
+      "category": "mandarin_pop",
+      "duration_sec": 286.0,
+      "key_offset": -4,
+      "gender_variant": "female",
+      "youtube_url": "https://www.youtube.com/watch?v=8GHPf1loWTk",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "再遇見",
+      "artist": "蘇打綠 sodagreen",
+      "category": "mandarin_pop",
+      "duration_sec": 281.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=8PSvDdL2BPs",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "冷火",
+      "artist": "華研國際",
+      "category": "mandarin_pop",
+      "duration_sec": 395.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=1PSF70DWCnw",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "剛剛好",
+      "artist": "薛之謙 JokerXue",
+      "category": "mandarin_pop",
+      "duration_sec": 275.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=rXRKupl-uLo",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "匿名的好友",
+      "artist": "Rainie Yang's Official Channel楊丞琳官方專屬頻道",
+      "category": "mandarin_pop",
+      "duration_sec": 259.0,
+      "key_offset": -5,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=s9hGDIpwfXw",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "可以了",
+      "artist": "Eason Chan",
+      "category": "mandarin_pop",
+      "duration_sec": 304.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=UbUsGd5h16E",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "命運",
+      "artist": "相信音樂BinMusic",
+      "category": "mandarin_pop",
+      "duration_sec": 231.0,
+      "key_offset": -3,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=LWmVK8K2QhM",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "咖啡",
+      "artist": "張學友 Jacky Cheung",
+      "category": "mandarin_pop",
+      "duration_sec": 245.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=VuaurOQJRCs",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "善變",
+      "artist": "Angelic Music World",
+      "category": "mandarin_pop",
+      "duration_sec": 257.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=KWRwlTyV-qU",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "喜劇之王",
+      "artist": "李榮浩 Ronghao Li",
+      "category": "mandarin_pop",
+      "duration_sec": 262.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=ijLLmE_sFkY",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "嘉賓",
+      "artist": "EHPMusicChannel",
+      "category": "mandarin_pop",
+      "duration_sec": 334.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=8ux25IcLr8w",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "囂張",
+      "artist": "EHPMusicChannel",
+      "category": "mandarin_pop",
+      "duration_sec": 255.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=oAUmNEUJlJ0",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "囈語",
+      "artist": "MusicMaHa",
+      "category": "mandarin_pop",
+      "duration_sec": 296.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=HUIFZNLTp38",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "因為愛情",
+      "artist": "universalmusichk",
+      "category": "mandarin_pop",
+      "duration_sec": 225.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=VdwAkhNdZi8",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "園遊會",
+      "artist": "周杰倫 Jay Chou",
+      "category": "mandarin_pop",
+      "duration_sec": 251.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=IoCoIxkGkVw",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "在這座城市遺失了你",
+      "artist": "相信音樂BinMusic",
+      "category": "mandarin_pop",
+      "duration_sec": 398.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=PlCbgZxonJs",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "城市傍晚",
+      "artist": "JJY Music Channel",
+      "category": "mandarin_pop",
+      "duration_sec": 254.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=bv7bLVNfdbs",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "外套",
+      "artist": "華研國際",
+      "category": "mandarin_pop",
+      "duration_sec": 258.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=yNM5uVQGmD8",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "大海",
+      "artist": "Timeless Music",
+      "category": "mandarin_pop",
+      "duration_sec": 273.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=EXaLvBGqQww",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "天外來物",
+      "artist": "MWS Music World",
+      "category": "mandarin_pop",
+      "duration_sec": 251.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=T4eqDMRnWfc",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "天涯過客",
+      "artist": "周杰倫 Jay Chou",
+      "category": "mandarin_pop",
+      "duration_sec": 253.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=-gJzlOJ0Zoo",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": false,
+        "lyrics_txt": false
+      },
+      "lyrics_source": null,
+      "has_timestamps": false
+    },
+    {
+      "title": "她說",
+      "artist": "太合音樂 Taihe Music-精選",
+      "category": "mandarin_pop",
+      "duration_sec": 339.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=BocMPQv9brE",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "好想愛這個世界啊",
+      "artist": "Music Selection",
+      "category": "mandarin_pop",
+      "duration_sec": 269.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=MIR5SRaQJgQ",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "如果可以",
+      "artist": "韋禮安 WeiBird",
+      "category": "mandarin_pop",
+      "duration_sec": 275.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=8MG--WuNW1Y",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "如果有一天",
+      "artist": "滾石唱片 ROCK RECORDS",
+      "category": "mandarin_pop",
+      "duration_sec": 284.0,
+      "key_offset": -3,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=K3o6SfwZq_w",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "孤勇者",
+      "artist": "Eason Chan",
+      "category": "mandarin_pop",
+      "duration_sec": 273.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=Hlp8XD0R5qo",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "學不會",
+      "artist": "華納音樂 Warner Music Taiwan",
+      "category": "mandarin_pop",
+      "duration_sec": 276.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=27R6ZavdzzQ",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "家家酒",
+      "artist": "相信音樂BinMusic",
+      "category": "mandarin_pop",
+      "duration_sec": 288.0,
+      "key_offset": -2,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=T-Xk_xirUlo",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "寫給明天的情書",
+      "artist": "華研國際",
+      "category": "mandarin_pop",
+      "duration_sec": 266.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=evavdUeZUno",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "小幸運",
+      "artist": "Liang Rainner",
+      "category": "mandarin_pop",
+      "duration_sec": 266.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=GCgvpwLNvtY",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "小時候",
+      "artist": "蘇打綠 sodagreen",
+      "category": "mandarin_pop",
+      "duration_sec": 326.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=xpT7av-kiXg",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "平凡之路",
+      "artist": "芒果TV音乐 MangoTV Music",
+      "category": "mandarin_pop",
+      "duration_sec": 359.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=ExSGYFBPuu0",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "平凡的一天",
+      "artist": "Dreamer Music",
+      "category": "mandarin_pop",
+      "duration_sec": 299.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=hmJqC--g_as",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "平衡木",
+      "artist": "理想混蛋 Bestards",
+      "category": "mandarin_pop",
+      "duration_sec": 316.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=macv0Q1tHKs",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "年少有為",
+      "artist": "李榮浩 Ronghao Li",
+      "category": "mandarin_pop",
+      "duration_sec": 299.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=Dnj5Tcpev0Q",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "後來",
+      "artist": "滾石唱片 ROCK RECORDS",
+      "category": "mandarin_pop",
+      "duration_sec": 341.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=t0igPuDjYUE",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "從前說",
+      "artist": "音樂品味頻道",
+      "category": "mandarin_pop",
+      "duration_sec": 251.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=hEMRM6J7LlY",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "忽然之間",
+      "artist": "滾石唱片 ROCK RECORDS",
+      "category": "mandarin_pop",
+      "duration_sec": 205.0,
+      "key_offset": -5,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=h1tNw1aFzSM",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "情歌",
+      "artist": "4Leaf Music",
+      "category": "mandarin_pop",
+      "duration_sec": 257.0,
+      "key_offset": -5,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=yn3js31DDzg",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "想自由",
+      "artist": "華研國際",
+      "category": "mandarin_pop",
+      "duration_sec": 313.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=NuiAOSii_sk",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "想起他們",
+      "artist": "RD 阿東",
+      "category": "mandarin_pop",
+      "duration_sec": 588.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=IVOvN1XMwGI",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "愚者",
+      "artist": "理想混蛋 Bestards",
+      "category": "mandarin_pop",
+      "duration_sec": 292.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=FYNNLjn-CuI",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "愛笑的眼睛",
+      "artist": "浙江卫视音乐频道 ZJSTV Music Channel - 欢迎订阅 -",
+      "category": "mandarin_pop",
+      "duration_sec": 247.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=PZrXiWGWeIs",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "慢冷",
+      "artist": "浙江卫视音乐频道 ZJSTV Music Channel - 欢迎订阅 -",
+      "category": "mandarin_pop",
+      "duration_sec": 308.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=YtkgUVGm_n8",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "慢慢喜歡你",
+      "artist": "莫文蔚 Karen Mok",
+      "category": "mandarin_pop",
+      "duration_sec": 368.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=kqqraGvoqVs",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "成全",
+      "artist": "華研國際",
+      "category": "mandarin_pop",
+      "duration_sec": 311.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=JfnQ8qtcDyQ",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "我們",
+      "artist": "Eason Chan",
+      "category": "mandarin_pop",
+      "duration_sec": 274.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=dhjomo8W6Lc",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "我們的愛",
+      "artist": "Timeless Music",
+      "category": "mandarin_pop",
+      "duration_sec": 349.0,
+      "key_offset": -5,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=88D2-J_pk7A",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "我好想你",
+      "artist": "蘇打綠 sodagreen",
+      "category": "mandarin_pop",
+      "duration_sec": 327.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=P_pyfLArjQg",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "我就想你",
+      "artist": "理想混蛋 Bestards",
+      "category": "mandarin_pop",
+      "duration_sec": 259.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=oeYgf4ZkdR0",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "我很好騙",
+      "artist": "動力火車 Power Station官方專屬頻道",
+      "category": "mandarin_pop",
+      "duration_sec": 384.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=3HsIaWuNeX0",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "我的最愛",
+      "artist": "福茂唱片",
+      "category": "mandarin_pop",
+      "duration_sec": 261.0,
+      "key_offset": -4,
+      "gender_variant": "female",
+      "youtube_url": "https://www.youtube.com/watch?v=EXWUcGt9YV8",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "我相信",
+      "artist": "Depuislejour86",
+      "category": "mandarin_pop",
+      "duration_sec": 245.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=xl7enIAM4Go",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "手心的太陽",
+      "artist": "福茂唱片",
+      "category": "mandarin_pop",
+      "duration_sec": 308.0,
+      "key_offset": -4,
+      "gender_variant": "female",
+      "youtube_url": "https://www.youtube.com/watch?v=LbDVqYaQboY",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "手掌心",
+      "artist": "相信音樂BinMusic",
+      "category": "mandarin_pop",
+      "duration_sec": 255.0,
+      "key_offset": -3,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=7wvNwOPprBE",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "手放開",
+      "artist": "华语歌曲频道",
+      "category": "mandarin_pop",
+      "duration_sec": 266.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=Ws4p0CSgJNo",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "把你信仰",
+      "artist": "張韶涵Angela Zhang",
+      "category": "mandarin_pop",
+      "duration_sec": 305.0,
+      "key_offset": -4,
+      "gender_variant": "female",
+      "youtube_url": "https://www.youtube.com/watch?v=SyKNXv--fws",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "擱淺",
+      "artist": "周杰倫 Jay Chou",
+      "category": "mandarin_pop",
+      "duration_sec": 269.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=YJfHuATJYsQ",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "故事",
+      "artist": "蘇打綠",
+      "category": "mandarin_pop",
+      "duration_sec": 293.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=_k3wjHT5m2E",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "散了吧",
+      "artist": "Dreamer Music",
+      "category": "mandarin_pop",
+      "duration_sec": 213.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=Kt-zQIJTHy0",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "明明就",
+      "artist": "周杰倫 Jay Chou",
+      "category": "mandarin_pop",
+      "duration_sec": 260.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=UBySINroNkw",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": false,
+        "lyrics_txt": false
+      },
+      "lyrics_source": null,
+      "has_timestamps": false
+    },
+    {
+      "title": "星晴",
+      "artist": "周杰倫 Jay Chou",
+      "category": "mandarin_pop",
+      "duration_sec": 258.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=sTNJsIcPSvE",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "暗號",
+      "artist": "周杰倫 Jay Chou",
+      "category": "mandarin_pop",
+      "duration_sec": 268.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=CYT9DPJdtS4",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "最後的戰役",
+      "artist": "周杰倫 Jay Chou",
+      "category": "mandarin_pop",
+      "duration_sec": 344.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=ZcShYmOhHM0",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": false,
+        "lyrics_txt": false
+      },
+      "lyrics_source": null,
+      "has_timestamps": false
+    },
+    {
+      "title": "最近",
+      "artist": "滾石唱片 ROCK RECORDS",
+      "category": "mandarin_pop",
+      "duration_sec": 260.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=azOIvILpIW8",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "最近好嗎",
+      "artist": "張韶涵Angela Zhang",
+      "category": "mandarin_pop",
+      "duration_sec": 348.0,
+      "key_offset": -4,
+      "gender_variant": "female",
+      "youtube_url": "https://www.youtube.com/watch?v=P-EXaG03qU0",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "最長的電影",
+      "artist": "周杰倫 Jay Chou",
+      "category": "mandarin_pop",
+      "duration_sec": 238.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=2zxc27bvrO8",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "會呼吸的痛",
+      "artist": "梁靜茹  Fish Leong ",
+      "category": "mandarin_pop",
+      "duration_sec": 273.0,
+      "key_offset": -5,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=TY3nj5ANRrk",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "有一種悲傷",
+      "artist": "A-Lin官方專屬頻道",
+      "category": "mandarin_pop",
+      "duration_sec": 241.0,
+      "key_offset": -3,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=BRcudpJzy1I",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "有形的翅膀",
+      "artist": "張韶涵Angela Zhang",
+      "category": "mandarin_pop",
+      "duration_sec": 222.0,
+      "key_offset": -4,
+      "gender_variant": "female",
+      "youtube_url": "https://www.youtube.com/watch?v=cBp-QhO63Us",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "末班車",
+      "artist": "華納音樂 Warner Music Taiwan",
+      "category": "mandarin_pop",
+      "duration_sec": 322.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=bDZ2pcn_V4c",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "楓",
+      "artist": "spitzclips",
+      "category": "mandarin_pop",
+      "duration_sec": 327.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=YapsFDcGe_s",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "歐若拉",
+      "artist": "AURORA",
+      "category": "mandarin_pop",
+      "duration_sec": 202.0,
+      "key_offset": -4,
+      "gender_variant": "female",
+      "youtube_url": "https://www.youtube.com/watch?v=K17df81RL9Y",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "殘酷月光",
+      "artist": "華研國際",
+      "category": "mandarin_pop",
+      "duration_sec": 270.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=LgvBXXLC5AI",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "沒事的",
+      "artist": "蕭煌奇 Ricky Hsiao",
+      "category": "mandarin_pop",
+      "duration_sec": 256.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=2t6hJEQ3Ubs",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "沒離開過",
+      "artist": "芒果TV音乐 MangoTV Music",
+      "category": "mandarin_pop",
+      "duration_sec": 288.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=TTfeMfHxZzc",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "浪漫手機",
+      "artist": "周杰倫 Jay Chou",
+      "category": "mandarin_pop",
+      "duration_sec": 280.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=Kbvu9Vt5_eE",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": false,
+        "lyrics_txt": false
+      },
+      "lyrics_source": null,
+      "has_timestamps": false
+    },
+    {
+      "title": "浪費",
+      "artist": "華研國際",
+      "category": "mandarin_pop",
+      "duration_sec": 306.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=LTzy8NF3BDo",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "浮誇",
+      "artist": "Eason Chan",
+      "category": "mandarin_pop",
+      "duration_sec": 284.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=0xFFGzZq75w",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "消愁",
+      "artist": "Dreamer Music",
+      "category": "mandarin_pop",
+      "duration_sec": 262.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=9C3Nd5dRin8",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "淘汰",
+      "artist": "George Wong",
+      "category": "mandarin_pop",
+      "duration_sec": 296.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=d5rsn0Yl0Ns",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "滯留鋒",
+      "artist": "YC C.",
+      "category": "mandarin_pop",
+      "duration_sec": 308.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=MXuOCJJIb7U",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "演員",
+      "artist": "薛之謙 JokerXue",
+      "category": "mandarin_pop",
+      "duration_sec": 299.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=XaN3kUz4KSw",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "無條件為你",
+      "artist": "滾石唱片 ROCK RECORDS",
+      "category": "mandarin_pop",
+      "duration_sec": 261.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=XPD-0b66Wv4",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "無眠",
+      "artist": "蘇打綠 sodagreen",
+      "category": "mandarin_pop",
+      "duration_sec": 229.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=qXv7POo5MNI",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "煙花易冷",
+      "artist": "周杰倫 Jay Chou",
+      "category": "mandarin_pop",
+      "duration_sec": 267.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=COMHDRqAvYE",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "牆外的風景",
+      "artist": "Namewee",
+      "category": "mandarin_pop",
+      "duration_sec": 310.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=WCLlFA9SiDI",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "猜不透",
+      "artist": "ORT Music",
+      "category": "mandarin_pop",
+      "duration_sec": 209.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=O2qg33EnzeQ",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "當我們一起走過",
+      "artist": "蘇打綠 sodagreen",
+      "category": "mandarin_pop",
+      "duration_sec": 285.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=tAWPPcPaiQo",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "痴心絕對",
+      "artist": "HISMUSICS",
+      "category": "mandarin_pop",
+      "duration_sec": 261.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=DdMRXHzdd-E",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "白月光與硃砂痣",
+      "artist": "Angelic Music World",
+      "category": "mandarin_pop",
+      "duration_sec": 205.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=yFzQRMXEuqU",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "白色風車",
+      "artist": "周杰倫 Jay Chou",
+      "category": "mandarin_pop",
+      "duration_sec": 292.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=K9CbHZLXPIA",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "看得最遠的地方",
+      "artist": "福茂唱片",
+      "category": "mandarin_pop",
+      "duration_sec": 249.0,
+      "key_offset": -4,
+      "gender_variant": "female",
+      "youtube_url": "https://www.youtube.com/watch?v=RdRsVog0y2w",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "真的",
+      "artist": "聖結石Saint",
+      "category": "mandarin_pop",
+      "duration_sec": 251.0,
+      "key_offset": -4,
+      "gender_variant": "female",
+      "youtube_url": "https://www.youtube.com/watch?v=fWuq67-VSTM",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "眼底星空",
+      "artist": "滾石唱片 ROCK RECORDS",
+      "category": "mandarin_pop",
+      "duration_sec": 266.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=VLp9Nb2dXW8",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "突然好想你",
+      "artist": "相信音樂BinMusic",
+      "category": "mandarin_pop",
+      "duration_sec": 287.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=GtDRcXtDg-4",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "童話",
+      "artist": "滾石唱片 ROCK RECORDS",
+      "category": "mandarin_pop",
+      "duration_sec": 457.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=bBcp_ljCBGU",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "等一個人",
+      "artist": "Harlem Yu",
+      "category": "mandarin_pop",
+      "duration_sec": 280.0,
+      "key_offset": -4,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=hjXrL7CuAvc",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "紅顏如霜",
+      "artist": "周杰倫 Jay Chou",
+      "category": "mandarin_pop",
+      "duration_sec": 258.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=APgx1k-2Tqc",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": false,
+        "lyrics_txt": false
+      },
+      "lyrics_source": null,
+      "has_timestamps": false
+    },
+    {
+      "title": "紳士",
+      "artist": "FamilyOyoung",
+      "category": "mandarin_pop",
+      "duration_sec": 325.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=HzL2hZYUIgA",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "給你給我",
+      "artist": "CPC Music Channel",
+      "category": "mandarin_pop",
+      "duration_sec": 245.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=0r1ct8L_i_A",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "美人魚",
+      "artist": "太合音樂 Taihe Music-精選",
+      "category": "mandarin_pop",
+      "duration_sec": 250.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=jdf3gxFP0F8",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "聖誕結",
+      "artist": "周杰倫 Jay Chou",
+      "category": "mandarin_pop",
+      "duration_sec": 183.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=IXuhdnB2dAY",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "聽海",
+      "artist": "豐華唱片ForwardMusic",
+      "category": "mandarin_pop",
+      "duration_sec": 317.0,
+      "key_offset": -2,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=mLk61pfiHQ0",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "背對背擁抱",
+      "artist": "太合音樂 Taihe Music-精選",
+      "category": "mandarin_pop",
+      "duration_sec": 243.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=7xgucJEqNDo",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "苦瓜",
+      "artist": "GM Lyric",
+      "category": "mandarin_pop",
+      "duration_sec": 279.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=cQ_86CAgb6s",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "落葉歸根",
+      "artist": "王力宏 Wang Leehom",
+      "category": "mandarin_pop",
+      "duration_sec": 320.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=ElSO_8jo8yE",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "蒙娜麗莎的眼淚",
+      "artist": "TerryLinVEVO",
+      "category": "mandarin_pop",
+      "duration_sec": 268.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=XhsGatr2otk",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "蒲公英的約定",
+      "artist": "周杰倫 Jay Chou",
+      "category": "mandarin_pop",
+      "duration_sec": 248.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=VitJnr3IySc",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "裂心",
+      "artist": "王力宏 Wang Leehom",
+      "category": "mandarin_pop",
+      "duration_sec": 262.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=fHkTKnFuRN8",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "親愛的那不是愛情",
+      "artist": "福茂唱片",
+      "category": "mandarin_pop",
+      "duration_sec": 258.0,
+      "key_offset": -4,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=HwF1i_6Iwp8",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "說了再見以後",
+      "artist": "周杰倫 Jay Chou",
+      "category": "mandarin_pop",
+      "duration_sec": 288.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=KKsioz-zaZY",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "說好的幸福呢",
+      "artist": "周杰倫 Jay Chou",
+      "category": "mandarin_pop",
+      "duration_sec": 257.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=mLFhTFiX0uM",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "誰來剪月光",
+      "artist": "universalmusichk",
+      "category": "mandarin_pop",
+      "duration_sec": 212.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=n6VP0Wm3EMo",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "起風了",
+      "artist": "親親2o音樂LîvË【中文音樂】",
+      "category": "mandarin_pop",
+      "duration_sec": 326.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=3tJUflhYIpo",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "路過人間",
+      "artist": "華研國際",
+      "category": "mandarin_pop",
+      "duration_sec": 244.0,
+      "key_offset": -3,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=FMl7GEaYwAE",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "軌跡",
+      "artist": "周杰倫 Jay Chou",
+      "category": "mandarin_pop",
+      "duration_sec": 326.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=SdBwt6pyNwE",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "輸了你贏了世界又如何",
+      "artist": "浙江卫视音乐频道 ZJSTV Music Channel - 欢迎订阅 -",
+      "category": "mandarin_pop",
+      "duration_sec": 282.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=NiHF-cwto_A",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "這世界那麼多人",
+      "artist": "莫文蔚 Karen Mok",
+      "category": "mandarin_pop",
+      "duration_sec": 307.0,
+      "key_offset": -5,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=xLscpRjb8DI",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "遠走高飛",
+      "artist": "滾石唱片 ROCK RECORDS",
+      "category": "mandarin_pop",
+      "duration_sec": 274.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=AxriUC2n2fg",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "遺失的美好",
+      "artist": "福茂唱片",
+      "category": "mandarin_pop",
+      "duration_sec": 285.0,
+      "key_offset": -4,
+      "gender_variant": "female",
+      "youtube_url": "https://www.youtube.com/watch?v=sh4BwEDtRI0",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "那些你很冒險的夢",
+      "artist": "華納音樂 Warner Music Taiwan",
+      "category": "mandarin_pop",
+      "duration_sec": 253.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=iE0l8Tx62DE",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "隱形的翅膀",
+      "artist": "福茂唱片",
+      "category": "mandarin_pop",
+      "duration_sec": 227.0,
+      "key_offset": -4,
+      "gender_variant": "female",
+      "youtube_url": "https://www.youtube.com/watch?v=be2wvNFTLMc",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "離人",
+      "artist": "camoranleodes",
+      "category": "mandarin_pop",
+      "duration_sec": 299.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=MrlXbLnqKZU",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "離開的一路上",
+      "artist": "理想混蛋 Bestards",
+      "category": "mandarin_pop",
+      "duration_sec": 272.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=3hLESh77fSg",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "雨後",
+      "artist": "泥土音樂Clay Music",
+      "category": "mandarin_pop",
+      "duration_sec": 312.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=ksANigSjZ-4",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "雪落下的聲音",
+      "artist": "浙江卫视音乐频道 ZJSTV Music Channel - 欢迎订阅 -",
+      "category": "mandarin_pop",
+      "duration_sec": 300.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=QtgeVuetOCY",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "青花瓷",
+      "artist": "周杰倫 Jay Chou",
+      "category": "mandarin_pop",
+      "duration_sec": 244.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=Z8Mqw0b9ADs",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "靜悄悄",
+      "artist": "EHPMusicChannel",
+      "category": "mandarin_pop",
+      "duration_sec": 187.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=FnV5wmmU0JM",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": false,
+        "lyrics_txt": false
+      },
+      "lyrics_source": null,
+      "has_timestamps": false
+    },
+    {
+      "title": "預感",
+      "artist": "魚乾",
+      "category": "mandarin_pop",
+      "duration_sec": 372.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=0_sxOF7ZehI",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    },
+    {
+      "title": "魚",
+      "artist": "怕胖團PAPUN BAND Youtube 官方頻道",
+      "category": "mandarin_pop",
+      "duration_sec": 286.0,
+      "key_offset": 0,
+      "gender_variant": null,
+      "youtube_url": "https://www.youtube.com/watch?v=Dnz-BTz9eDU",
+      "files": {
+        "instrumental": true,
+        "vocals": true,
+        "original": true,
+        "lyrics_lrc": true,
+        "lyrics_txt": true
+      },
+      "lyrics_source": "netease",
+      "has_timestamps": true
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "title": "聽海",
+  "artist": "豐華唱片ForwardMusic",
+  "category": "mandarin_pop",
+  "duration_sec": 317.0,
+  "key_offset": -2,
+  "gender_variant": null,
+  "youtube_url": "https://www.youtube.com/watch?v=mLk61pfiHQ0",
+  "youtube_title": "張惠妹 A-Mei - 聽海 官方MV (Official Music Video)",
+  "view_count": 48490952,
+  "separation_model": "htdemucs_ft",
+  "files": {
+    "instrumental": "instrumental.wav",
+    "vocals": "vocals.wav",
+    "original": "original.mp3"
+  },
+  "lyrics": {
+    "source": "netease",
+    "has_timestamps": true
+  },
+  "built_at": "2026-04-23T01:55:48.698621"
+}

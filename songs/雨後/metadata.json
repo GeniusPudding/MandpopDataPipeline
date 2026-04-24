@@ -1,0 +1,22 @@
+{
+  "title": "雨後",
+  "artist": "泥土音樂Clay Music",
+  "category": "mandarin_pop",
+  "duration_sec": 312.0,
+  "key_offset": 0,
+  "gender_variant": null,
+  "youtube_url": "https://www.youtube.com/watch?v=ksANigSjZ-4",
+  "youtube_title": "雨後的天空 After the rain 盛曉玫 Amy Sand 泥土音樂專輯 8：不變的愛",
+  "view_count": 4403745,
+  "separation_model": "htdemucs_ft",
+  "files": {
+    "instrumental": "instrumental.wav",
+    "vocals": "vocals.wav",
+    "original": "original.mp3"
+  },
+  "lyrics": {
+    "source": "netease",
+    "has_timestamps": true
+  },
+  "built_at": "2026-04-23T01:56:18.114859"
+}

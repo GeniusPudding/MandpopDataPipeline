@@ -1,0 +1,22 @@
+{
+  "title": "光年之外",
+  "artist": "GEM鄧紫棋",
+  "category": "mandarin_pop",
+  "duration_sec": 236.0,
+  "key_offset": 0,
+  "gender_variant": null,
+  "youtube_url": "https://www.youtube.com/watch?v=T4SimnaiktU",
+  "youtube_title": "G.E.M.【光年之外 LIGHT YEARS AWAY 】MV (電影《太空潛航者 Passengers》中文主題曲) [HD] 鄧紫棋",
+  "view_count": 302948872,
+  "separation_model": "htdemucs_ft",
+  "files": {
+    "instrumental": "instrumental.wav",
+    "vocals": "vocals.wav",
+    "original": "original.mp3"
+  },
+  "lyrics": {
+    "source": "netease",
+    "has_timestamps": true
+  },
+  "built_at": "2026-04-23T01:53:24.343949"
+}

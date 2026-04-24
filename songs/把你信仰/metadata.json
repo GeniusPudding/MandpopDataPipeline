@@ -1,0 +1,22 @@
+{
+  "title": "把你信仰",
+  "artist": "張韶涵Angela Zhang",
+  "category": "mandarin_pop",
+  "duration_sec": 305.0,
+  "key_offset": -4,
+  "gender_variant": "female",
+  "youtube_url": "https://www.youtube.com/watch?v=SyKNXv--fws",
+  "youtube_title": "張韶涵 Angela【把你信仰】Official MV【HD】",
+  "view_count": 993027,
+  "separation_model": "htdemucs_ft",
+  "files": {
+    "instrumental": "instrumental.wav",
+    "vocals": "vocals.wav",
+    "original": "original.mp3"
+  },
+  "lyrics": {
+    "source": "netease",
+    "has_timestamps": true
+  },
+  "built_at": "2026-04-23T01:54:46.470611"
+}

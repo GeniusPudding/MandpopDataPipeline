@@ -1,0 +1,22 @@
+{
+  "title": "沒離開過",
+  "artist": "芒果TV音乐 MangoTV Music",
+  "category": "mandarin_pop",
+  "duration_sec": 288.0,
+  "key_offset": 0,
+  "gender_variant": null,
+  "youtube_url": "https://www.youtube.com/watch?v=TTfeMfHxZzc",
+  "youtube_title": "【纯享】#林志炫 《#没离开过 》惊艳全场  教科书级唱功震撼发声，用歌声编织永不褪色的深情告白 ！| 我是歌手 | I AM A SINGER | MangoTV",
+  "view_count": 9291598,
+  "separation_model": "htdemucs_ft",
+  "files": {
+    "instrumental": "instrumental.wav",
+    "vocals": "vocals.wav",
+    "original": "original.mp3"
+  },
+  "lyrics": {
+    "source": "netease",
+    "has_timestamps": true
+  },
+  "built_at": "2026-04-23T01:55:13.858747"
+}

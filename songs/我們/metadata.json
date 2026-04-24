@@ -1,0 +1,22 @@
+{
+  "title": "我們",
+  "artist": "Eason Chan",
+  "category": "mandarin_pop",
+  "duration_sec": 274.0,
+  "key_offset": 0,
+  "gender_variant": null,
+  "youtube_url": "https://www.youtube.com/watch?v=dhjomo8W6Lc",
+  "youtube_title": "陳奕迅 Eason Chan 《我們》Us [Official MV]",
+  "view_count": 37940675,
+  "separation_model": "htdemucs_ft",
+  "files": {
+    "instrumental": "instrumental.wav",
+    "vocals": "vocals.wav",
+    "original": "original.mp3"
+  },
+  "lyrics": {
+    "source": "netease",
+    "has_timestamps": true
+  },
+  "built_at": "2026-04-23T01:54:36.788771"
+}

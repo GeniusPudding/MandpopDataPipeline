@@ -1,0 +1,22 @@
+{
+  "title": "起風了",
+  "artist": "親親2o音樂LîvË【中文音樂】",
+  "category": "mandarin_pop",
+  "duration_sec": 326.0,
+  "key_offset": 0,
+  "gender_variant": null,
+  "youtube_url": "https://www.youtube.com/watch?v=3tJUflhYIpo",
+  "youtube_title": "買辣椒也用券 - 起風了 (新版)【動態歌詞Lyrics】",
+  "view_count": 103131525,
+  "separation_model": "htdemucs_ft",
+  "files": {
+    "instrumental": "instrumental.wav",
+    "vocals": "vocals.wav",
+    "original": "original.mp3"
+  },
+  "lyrics": {
+    "source": "netease",
+    "has_timestamps": true
+  },
+  "built_at": "2026-04-23T01:56:06.879449"
+}

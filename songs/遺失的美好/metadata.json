@@ -1,0 +1,22 @@
+{
+  "title": "遺失的美好",
+  "artist": "福茂唱片",
+  "category": "mandarin_pop",
+  "duration_sec": 285.0,
+  "key_offset": -4,
+  "gender_variant": "female",
+  "youtube_url": "https://www.youtube.com/watch?v=sh4BwEDtRI0",
+  "youtube_title": "張韶涵 Angela Zhang - 遺失的美好 (官方版MV)",
+  "view_count": 11705542,
+  "separation_model": "htdemucs_ft",
+  "files": {
+    "instrumental": "instrumental.wav",
+    "vocals": "vocals.wav",
+    "original": "original.mp3"
+  },
+  "lyrics": {
+    "source": "netease",
+    "has_timestamps": true
+  },
+  "built_at": "2026-04-23T01:56:16.079496"
+}

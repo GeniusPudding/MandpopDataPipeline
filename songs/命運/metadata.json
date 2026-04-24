@@ -1,0 +1,22 @@
+{
+  "title": "命運",
+  "artist": "相信音樂BinMusic",
+  "category": "mandarin_pop",
+  "duration_sec": 231.0,
+  "key_offset": -3,
+  "gender_variant": null,
+  "youtube_url": "https://www.youtube.com/watch?v=LWmVK8K2QhM",
+  "youtube_title": "JiaJia家家[命運]MV官方完整版-中視[蘭陵王]插曲",
+  "view_count": 74756694,
+  "separation_model": "htdemucs_ft",
+  "files": {
+    "instrumental": "instrumental.wav",
+    "vocals": "vocals.wav",
+    "original": "original.mp3"
+  },
+  "lyrics": {
+    "source": "netease",
+    "has_timestamps": true
+  },
+  "built_at": "2026-04-23T01:53:38.326814"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "滯留鋒",
+  "artist": "YC C.",
+  "category": "mandarin_pop",
+  "duration_sec": 308.0,
+  "key_offset": 0,
+  "gender_variant": null,
+  "youtube_url": "https://www.youtube.com/watch?v=MXuOCJJIb7U",
+  "youtube_title": "【2019大團誕生】理想混蛋-滯留鋒",
+  "view_count": 24679,
+  "separation_model": "htdemucs_ft",
+  "files": {
+    "instrumental": "instrumental.wav",
+    "vocals": "vocals.wav",
+    "original": "original.mp3"
+  },
+  "lyrics": {
+    "source": "netease",
+    "has_timestamps": true
+  },
+  "built_at": "2026-04-23T01:55:25.528844"
+}

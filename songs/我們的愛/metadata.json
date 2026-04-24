@@ -1,0 +1,22 @@
+{
+  "title": "我們的愛",
+  "artist": "Timeless Music",
+  "category": "mandarin_pop",
+  "duration_sec": 349.0,
+  "key_offset": -5,
+  "gender_variant": null,
+  "youtube_url": "https://www.youtube.com/watch?v=88D2-J_pk7A",
+  "youtube_title": "F.I.R. 飛兒樂團 - 我們的愛 (official官方完整版MV)",
+  "view_count": 10993614,
+  "separation_model": "htdemucs_ft",
+  "files": {
+    "instrumental": "instrumental.wav",
+    "vocals": "vocals.wav",
+    "original": "original.mp3"
+  },
+  "lyrics": {
+    "source": "netease",
+    "has_timestamps": true
+  },
+  "built_at": "2026-04-23T01:54:37.075118"
+}

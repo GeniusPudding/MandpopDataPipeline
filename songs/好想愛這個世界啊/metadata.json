@@ -1,0 +1,22 @@
+{
+  "title": "好想愛這個世界啊",
+  "artist": "Music Selection",
+  "category": "mandarin_pop",
+  "duration_sec": 269.0,
+  "key_offset": 0,
+  "gender_variant": null,
+  "youtube_url": "https://www.youtube.com/watch?v=MIR5SRaQJgQ",
+  "youtube_title": "好想愛這個世界啊  華晨宇【創作MV】",
+  "view_count": 28563311,
+  "separation_model": "htdemucs_ft",
+  "files": {
+    "instrumental": "instrumental.wav",
+    "vocals": "vocals.wav",
+    "original": "original.mp3"
+  },
+  "lyrics": {
+    "source": "netease",
+    "has_timestamps": true
+  },
+  "built_at": "2026-04-23T01:54:03.437246"
+}

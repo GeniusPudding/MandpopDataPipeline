@@ -1,0 +1,22 @@
+{
+  "title": "忽然之間",
+  "artist": "滾石唱片 ROCK RECORDS",
+  "category": "mandarin_pop",
+  "duration_sec": 205.0,
+  "key_offset": -5,
+  "gender_variant": null,
+  "youtube_url": "https://www.youtube.com/watch?v=h1tNw1aFzSM",
+  "youtube_title": "莫文蔚 Karen Mok【忽然之間 Suddenly】Official Music Video",
+  "view_count": 17771459,
+  "separation_model": "htdemucs_ft",
+  "files": {
+    "instrumental": "instrumental.wav",
+    "vocals": "vocals.wav",
+    "original": "original.mp3"
+  },
+  "lyrics": {
+    "source": "netease",
+    "has_timestamps": true
+  },
+  "built_at": "2026-04-23T01:54:22.079849"
+}

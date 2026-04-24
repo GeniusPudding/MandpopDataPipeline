@@ -1,0 +1,22 @@
+{
+  "title": "最近",
+  "artist": "滾石唱片 ROCK RECORDS",
+  "category": "mandarin_pop",
+  "duration_sec": 260.0,
+  "key_offset": 0,
+  "gender_variant": null,
+  "youtube_url": "https://www.youtube.com/watch?v=azOIvILpIW8",
+  "youtube_title": "李聖傑 Sam Lee【最近】Official Music Video",
+  "view_count": 40087801,
+  "separation_model": "htdemucs_ft",
+  "files": {
+    "instrumental": "instrumental.wav",
+    "vocals": "vocals.wav",
+    "original": "original.mp3"
+  },
+  "lyrics": {
+    "source": "netease",
+    "has_timestamps": true
+  },
+  "built_at": "2026-04-23T01:54:58.039670"
+}

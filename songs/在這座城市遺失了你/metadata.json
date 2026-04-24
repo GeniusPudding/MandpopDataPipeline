@@ -1,0 +1,22 @@
+{
+  "title": "在這座城市遺失了你",
+  "artist": "相信音樂BinMusic",
+  "category": "mandarin_pop",
+  "duration_sec": 398.0,
+  "key_offset": 0,
+  "gender_variant": null,
+  "youtube_url": "https://www.youtube.com/watch?v=PlCbgZxonJs",
+  "youtube_title": "告五人 Accusefive [ 在這座城市遺失了你 Where I Lost Us ] Official Music Video（電視劇《她們創業的那些鳥事》插曲）",
+  "view_count": 36575290,
+  "separation_model": "htdemucs_ft",
+  "files": {
+    "instrumental": "instrumental.wav",
+    "vocals": "vocals.wav",
+    "original": "original.mp3"
+  },
+  "lyrics": {
+    "source": "netease",
+    "has_timestamps": true
+  },
+  "built_at": "2026-04-23T01:53:50.395671"
+}
