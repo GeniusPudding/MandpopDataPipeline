@@ -1,0 +1,22 @@
+{
+  "title": "有形的翅膀",
+  "artist": "張韶涵Angela Zhang",
+  "category": "mandarin_pop",
+  "duration_sec": 222.0,
+  "key_offset": -4,
+  "gender_variant": "female",
+  "youtube_url": "https://www.youtube.com/watch?v=cBp-QhO63Us",
+  "youtube_title": "Angela 張韶涵 - 有形的翅膀 (Visible Wings Official MV)",
+  "view_count": 9090253,
+  "separation_model": "htdemucs_ft",
+  "files": {
+    "instrumental": "instrumental.wav",
+    "vocals": "vocals.wav",
+    "original": "original.mp3"
+  },
+  "lyrics": {
+    "source": "netease",
+    "has_timestamps": true
+  },
+  "built_at": "2026-04-23T01:55:03.157314"
+}

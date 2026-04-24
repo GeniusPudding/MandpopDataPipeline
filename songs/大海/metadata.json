@@ -1,0 +1,22 @@
+{
+  "title": "大海",
+  "artist": "Timeless Music",
+  "category": "mandarin_pop",
+  "duration_sec": 273.0,
+  "key_offset": 0,
+  "gender_variant": null,
+  "youtube_url": "https://www.youtube.com/watch?v=EXaLvBGqQww",
+  "youtube_title": "張雨生 Tom Chang - 大海 (official 官方完整版MV)",
+  "view_count": 54112930,
+  "separation_model": "htdemucs_ft",
+  "files": {
+    "instrumental": "instrumental.wav",
+    "vocals": "vocals.wav",
+    "original": "original.mp3"
+  },
+  "lyrics": {
+    "source": "netease",
+    "has_timestamps": true
+  },
+  "built_at": "2026-04-23T01:53:51.734054"
+}

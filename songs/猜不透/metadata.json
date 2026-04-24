@@ -1,0 +1,22 @@
+{
+  "title": "猜不透",
+  "artist": "ORT Music",
+  "category": "mandarin_pop",
+  "duration_sec": 209.0,
+  "key_offset": 0,
+  "gender_variant": null,
+  "youtube_url": "https://www.youtube.com/watch?v=O2qg33EnzeQ",
+  "youtube_title": "盧盧快閉嘴 / 劉思达LOFTHESTAR - 猜不透 (說唱版)「如果忽遠忽近的灑脫 是你要的自由 那我寧願回到一個人生活」【動態歌詞/PinyinLyrics】♪",
+  "view_count": 34553574,
+  "separation_model": "htdemucs_ft",
+  "files": {
+    "instrumental": "instrumental.wav",
+    "vocals": "vocals.wav",
+    "original": "original.mp3"
+  },
+  "lyrics": {
+    "source": "netease",
+    "has_timestamps": true
+  },
+  "built_at": "2026-04-23T01:55:28.297483"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "不為誰而作的歌",
+  "artist": "JJ Lin林俊傑",
+  "category": "mandarin_pop",
+  "duration_sec": 313.0,
+  "key_offset": 0,
+  "gender_variant": null,
+  "youtube_url": "https://www.youtube.com/watch?v=gd38-X3HpbM",
+  "youtube_title": "JJ Lin - Twilight (Official HD MV)",
+  "view_count": 164118995,
+  "separation_model": "htdemucs_ft",
+  "files": {
+    "instrumental": "instrumental.wav",
+    "vocals": "vocals.wav",
+    "original": "original.mp3"
+  },
+  "lyrics": {
+    "source": "netease",
+    "has_timestamps": true
+  },
+  "built_at": "2026-04-23T01:53:06.525963"
+}

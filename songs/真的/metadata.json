@@ -1,0 +1,22 @@
+{
+  "title": "真的",
+  "artist": "聖結石Saint",
+  "category": "mandarin_pop",
+  "duration_sec": 251.0,
+  "key_offset": -4,
+  "gender_variant": "female",
+  "youtube_url": "https://www.youtube.com/watch?v=fWuq67-VSTM",
+  "youtube_title": "Saint [I hate to say it, but] Official MV 4K feat. Saint Dodo",
+  "view_count": 33064877,
+  "separation_model": "htdemucs_ft",
+  "files": {
+    "instrumental": "instrumental.wav",
+    "vocals": "vocals.wav",
+    "original": "original.mp3"
+  },
+  "lyrics": {
+    "source": "netease",
+    "has_timestamps": true
+  },
+  "built_at": "2026-04-23T01:55:38.459369"
+}

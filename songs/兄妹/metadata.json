@@ -1,0 +1,22 @@
+{
+  "title": "兄妹",
+  "artist": "大禾國際傳媒【Channel 1】 Harvest International Media",
+  "category": "mandarin_pop",
+  "duration_sec": 313.0,
+  "key_offset": 0,
+  "gender_variant": null,
+  "youtube_url": "https://www.youtube.com/watch?v=_P-VdZnqcRw",
+  "youtube_title": "袁小迪/鄧玉賢 兄妹 官方完整Official ＭＶ",
+  "view_count": 6729258,
+  "separation_model": "htdemucs_ft",
+  "files": {
+    "instrumental": "instrumental.wav",
+    "vocals": "vocals.wav",
+    "original": "original.mp3"
+  },
+  "lyrics": {
+    "source": "netease",
+    "has_timestamps": true
+  },
+  "built_at": "2026-04-23T01:53:24.188944"
+}

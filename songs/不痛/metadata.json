@@ -1,0 +1,22 @@
+{
+  "title": "不痛",
+  "artist": "芒果TV音乐 MangoTV Music",
+  "category": "mandarin_pop",
+  "duration_sec": 297.0,
+  "key_offset": -5,
+  "gender_variant": "female",
+  "youtube_url": "https://www.youtube.com/watch?v=Che-TaPS5OY",
+  "youtube_title": "【纯享】#徐佳莹 《不痛》细腻声线诉说爱之殇，将爱情里的释怀唱成治愈人心的温柔力量 | 我是歌手4 第7期 | I AM A SINGER 4 | Mango TV",
+  "view_count": 14205442,
+  "separation_model": "htdemucs_ft",
+  "files": {
+    "instrumental": "instrumental.wav",
+    "vocals": "vocals.wav",
+    "original": "original.mp3"
+  },
+  "lyrics": {
+    "source": "netease",
+    "has_timestamps": true
+  },
+  "built_at": "2026-04-23T01:53:06.684055"
+}

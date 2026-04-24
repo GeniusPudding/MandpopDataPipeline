@@ -1,0 +1,22 @@
+{
+  "title": "如果有一天",
+  "artist": "滾石唱片 ROCK RECORDS",
+  "category": "mandarin_pop",
+  "duration_sec": 284.0,
+  "key_offset": -3,
+  "gender_variant": null,
+  "youtube_url": "https://www.youtube.com/watch?v=K3o6SfwZq_w",
+  "youtube_title": "梁靜茹 Fish Leong【如果有一天 If One Day】GTV28台「懷玉公主」片頭曲 Official Music Video",
+  "view_count": 13607821,
+  "separation_model": "htdemucs_ft",
+  "files": {
+    "instrumental": "instrumental.wav",
+    "vocals": "vocals.wav",
+    "original": "original.mp3"
+  },
+  "lyrics": {
+    "source": "netease",
+    "has_timestamps": true
+  },
+  "built_at": "2026-04-23T01:54:05.884608"
+}

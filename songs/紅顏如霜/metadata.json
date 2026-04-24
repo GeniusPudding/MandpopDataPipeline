@@ -1,0 +1,19 @@
+{
+  "title": "紅顏如霜",
+  "artist": "周杰倫 Jay Chou",
+  "category": "mandarin_pop",
+  "duration_sec": 258.0,
+  "key_offset": 0,
+  "gender_variant": null,
+  "youtube_url": "https://www.youtube.com/watch?v=APgx1k-2Tqc",
+  "youtube_title": "周杰倫 JAY CHOU ft. JABBAWOCKEEZ【紅顏如霜 Cold Hearted】Official MV",
+  "view_count": 22362241,
+  "separation_model": "htdemucs_ft",
+  "files": {
+    "instrumental": "instrumental.wav",
+    "vocals": "vocals.wav",
+    "original": "original.mp3"
+  },
+  "lyrics": {},
+  "built_at": "2026-04-23T01:55:43.433694"
+}

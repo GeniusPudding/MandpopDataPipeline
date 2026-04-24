@@ -1,0 +1,22 @@
+{
+  "title": "蒲公英的約定",
+  "artist": "周杰倫 Jay Chou",
+  "category": "mandarin_pop",
+  "duration_sec": 248.0,
+  "key_offset": 0,
+  "gender_variant": null,
+  "youtube_url": "https://www.youtube.com/watch?v=VitJnr3IySc",
+  "youtube_title": "周杰倫 Jay Chou【蒲公英的約定 A Dandelion's Promise】-Official Music Video",
+  "view_count": 32204426,
+  "separation_model": "htdemucs_ft",
+  "files": {
+    "instrumental": "instrumental.wav",
+    "vocals": "vocals.wav",
+    "original": "original.mp3"
+  },
+  "lyrics": {
+    "source": "netease",
+    "has_timestamps": true
+  },
+  "built_at": "2026-04-23T01:55:54.706735"
+}

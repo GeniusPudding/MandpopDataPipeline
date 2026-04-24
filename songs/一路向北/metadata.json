@@ -1,0 +1,19 @@
+{
+  "title": "一路向北",
+  "artist": "周杰倫 Jay Chou",
+  "category": "mandarin_pop",
+  "duration_sec": 302.0,
+  "key_offset": 0,
+  "gender_variant": null,
+  "youtube_url": "https://www.youtube.com/watch?v=L229QDxDakU",
+  "youtube_title": "周杰倫 Jay Chou【一路向北 All the Way North】-Official Music Video",
+  "view_count": 103334754,
+  "separation_model": "htdemucs_ft",
+  "files": {
+    "instrumental": "instrumental.wav",
+    "vocals": "vocals.wav",
+    "original": "original.mp3"
+  },
+  "lyrics": {},
+  "built_at": "2026-04-23T01:53:05.543549"
+}

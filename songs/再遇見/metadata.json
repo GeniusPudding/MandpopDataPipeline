@@ -1,0 +1,22 @@
+{
+  "title": "再遇見",
+  "artist": "蘇打綠 sodagreen",
+  "category": "mandarin_pop",
+  "duration_sec": 281.0,
+  "key_offset": 0,
+  "gender_variant": null,
+  "youtube_url": "https://www.youtube.com/watch?v=8PSvDdL2BPs",
+  "youtube_title": "蘇打綠 sodagreen -【再遇見】Official Music Video",
+  "view_count": 23363381,
+  "separation_model": "htdemucs_ft",
+  "files": {
+    "instrumental": "instrumental.wav",
+    "vocals": "vocals.wav",
+    "original": "original.mp3"
+  },
+  "lyrics": {
+    "source": "netease",
+    "has_timestamps": true
+  },
+  "built_at": "2026-04-23T01:53:30.425217"
+}

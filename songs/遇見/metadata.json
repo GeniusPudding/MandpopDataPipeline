@@ -1,0 +1,20 @@
+{
+  "title": "遇見",
+  "youtube_url": "https://www.youtube.com/watch?v=aVmZpcrQBU4",
+  "youtube_title": "Ann白安【是什麼讓我遇見這樣的你What brings me to you】 MV官方完整版",
+  "duration_sec": 272,
+  "view_count": 126531324,
+  "uploader": "相信音樂BinMusic",
+  "separation_model": "htdemucs_ft",
+  "lyrics": {
+    "source": "netease",
+    "has_timestamps": true
+  },
+  "files": {
+    "instrumental": "instrumental.wav",
+    "lyrics": "lyrics.txt",
+    "original": "original.mp3",
+    "vocals": "vocals.wav"
+  },
+  "processed_at": "2026-04-26T18:36:52.359667"
+}

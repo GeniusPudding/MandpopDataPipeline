@@ -1,0 +1,22 @@
+{
+  "title": "學不會",
+  "artist": "華納音樂 Warner Music Taiwan",
+  "category": "mandarin_pop",
+  "duration_sec": 276.0,
+  "key_offset": 0,
+  "gender_variant": null,
+  "youtube_url": "https://www.youtube.com/watch?v=27R6ZavdzzQ",
+  "youtube_title": "林俊傑 JJ Lin - 學不會 Never Learn (官方完整 HD 高畫質版 MV)",
+  "view_count": 42239125,
+  "separation_model": "htdemucs_ft",
+  "files": {
+    "instrumental": "instrumental.wav",
+    "vocals": "vocals.wav",
+    "original": "original.mp3"
+  },
+  "lyrics": {
+    "source": "netease",
+    "has_timestamps": true
+  },
+  "built_at": "2026-04-23T01:54:08.911906"
+}

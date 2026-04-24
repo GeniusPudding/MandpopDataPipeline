@@ -1,0 +1,22 @@
+{
+  "title": "一葷一素",
+  "artist": "芒果TV季风频道 MangoTV Monsoon",
+  "category": "mandarin_pop",
+  "duration_sec": 315.0,
+  "key_offset": 0,
+  "gender_variant": null,
+  "youtube_url": "https://www.youtube.com/watch?v=8DQYzIb2cX4",
+  "youtube_title": "【纯享】毛不易《一荤一素》诉不完的生活 道不尽的温暖《歌手》单曲纯享版|芒果TV会员频道",
+  "view_count": 2618578,
+  "separation_model": "htdemucs_ft",
+  "files": {
+    "instrumental": "instrumental.wav",
+    "vocals": "vocals.wav",
+    "original": "original.mp3"
+  },
+  "lyrics": {
+    "source": "netease",
+    "has_timestamps": true
+  },
+  "built_at": "2026-04-23T01:53:05.371200"
+}

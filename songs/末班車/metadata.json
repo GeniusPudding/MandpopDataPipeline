@@ -1,0 +1,22 @@
+{
+  "title": "末班車",
+  "artist": "華納音樂 Warner Music Taiwan",
+  "category": "mandarin_pop",
+  "duration_sec": 322.0,
+  "key_offset": 0,
+  "gender_variant": null,
+  "youtube_url": "https://www.youtube.com/watch?v=bDZ2pcn_V4c",
+  "youtube_title": "蕭煌奇 末班車完整版MV-華納official HQ官方版MV",
+  "view_count": 39483735,
+  "separation_model": "htdemucs_ft",
+  "files": {
+    "instrumental": "instrumental.wav",
+    "vocals": "vocals.wav",
+    "original": "original.mp3"
+  },
+  "lyrics": {
+    "source": "netease",
+    "has_timestamps": true
+  },
+  "built_at": "2026-04-23T01:55:06.963323"
+}

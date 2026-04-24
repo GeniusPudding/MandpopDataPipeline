@@ -1,0 +1,22 @@
+{
+  "title": "雪落下的聲音",
+  "artist": "浙江卫视音乐频道 ZJSTV Music Channel - 欢迎订阅 -",
+  "category": "mandarin_pop",
+  "duration_sec": 300.0,
+  "key_offset": 0,
+  "gender_variant": null,
+  "youtube_url": "https://www.youtube.com/watch?v=QtgeVuetOCY",
+  "youtube_title": "林俊杰《雪落下的声音》 JJ不愧是行走的CD！《梦想的声音3》EP2 20181102 | 纯享 ZJSTV",
+  "view_count": 39001974,
+  "separation_model": "htdemucs_ft",
+  "files": {
+    "instrumental": "instrumental.wav",
+    "vocals": "vocals.wav",
+    "original": "original.mp3"
+  },
+  "lyrics": {
+    "source": "netease",
+    "has_timestamps": true
+  },
+  "built_at": "2026-04-23T01:56:18.241649"
+}

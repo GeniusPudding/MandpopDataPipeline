@@ -1,0 +1,22 @@
+{
+  "title": "這世界那麼多人",
+  "artist": "莫文蔚 Karen Mok",
+  "category": "mandarin_pop",
+  "duration_sec": 307.0,
+  "key_offset": -5,
+  "gender_variant": null,
+  "youtube_url": "https://www.youtube.com/watch?v=xLscpRjb8DI",
+  "youtube_title": "莫文蔚 Karen Mok《這世界那麼多人 Empty World》Official MV - 電影「我要我們在一起」主題曲",
+  "view_count": 27073526,
+  "separation_model": "htdemucs_ft",
+  "files": {
+    "instrumental": "instrumental.wav",
+    "vocals": "vocals.wav",
+    "original": "original.mp3"
+  },
+  "lyrics": {
+    "source": "netease",
+    "has_timestamps": true
+  },
+  "built_at": "2026-04-23T01:56:07.683840"
+}

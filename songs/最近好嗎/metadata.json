@@ -1,0 +1,22 @@
+{
+  "title": "最近好嗎",
+  "artist": "張韶涵Angela Zhang",
+  "category": "mandarin_pop",
+  "duration_sec": 348.0,
+  "key_offset": -4,
+  "gender_variant": "female",
+  "youtube_url": "https://www.youtube.com/watch?v=P-EXaG03qU0",
+  "youtube_title": "Angela 張韶涵 - 最近好嗎 官方完整HD版MV [How Are You Recently? Official HD MV]",
+  "view_count": 10418743,
+  "separation_model": "htdemucs_ft",
+  "files": {
+    "instrumental": "instrumental.wav",
+    "vocals": "vocals.wav",
+    "original": "original.mp3"
+  },
+  "lyrics": {
+    "source": "netease",
+    "has_timestamps": true
+  },
+  "built_at": "2026-04-23T01:55:00.538453"
+}

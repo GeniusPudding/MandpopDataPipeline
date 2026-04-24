@@ -1,0 +1,22 @@
+{
+  "title": "裂心",
+  "artist": "王力宏 Wang Leehom",
+  "category": "mandarin_pop",
+  "duration_sec": 262.0,
+  "key_offset": 0,
+  "gender_variant": null,
+  "youtube_url": "https://www.youtube.com/watch?v=fHkTKnFuRN8",
+  "youtube_title": "王力宏 Wang Leehom 《裂心》\"Cracked Heart\" 官方 Official MV",
+  "view_count": 5282383,
+  "separation_model": "htdemucs_ft",
+  "files": {
+    "instrumental": "instrumental.wav",
+    "vocals": "vocals.wav",
+    "original": "original.mp3"
+  },
+  "lyrics": {
+    "source": "netease",
+    "has_timestamps": true
+  },
+  "built_at": "2026-04-23T01:55:54.840105"
+}

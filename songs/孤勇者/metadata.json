@@ -1,0 +1,22 @@
+{
+  "title": "孤勇者",
+  "artist": "Eason Chan",
+  "category": "mandarin_pop",
+  "duration_sec": 273.0,
+  "key_offset": 0,
+  "gender_variant": null,
+  "youtube_url": "https://www.youtube.com/watch?v=Hlp8XD0R5qo",
+  "youtube_title": "《孤勇者》（《英雄聯盟：雙城之戰》動畫劇集中文主題曲）陳奕迅 Eason Chan [Official MV]",
+  "view_count": 84425925,
+  "separation_model": "htdemucs_ft",
+  "files": {
+    "instrumental": "instrumental.wav",
+    "vocals": "vocals.wav",
+    "original": "original.mp3"
+  },
+  "lyrics": {
+    "source": "netease",
+    "has_timestamps": true
+  },
+  "built_at": "2026-04-23T01:54:06.070743"
+}

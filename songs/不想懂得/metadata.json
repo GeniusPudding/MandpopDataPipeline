@@ -1,0 +1,22 @@
+{
+  "title": "不想懂得",
+  "artist": "福茂唱片",
+  "category": "mandarin_pop",
+  "duration_sec": 283.0,
+  "key_offset": -3,
+  "gender_variant": "female",
+  "youtube_url": "https://www.youtube.com/watch?v=YaJWn-Spxfc",
+  "youtube_title": "張韶涵 Angela Zhang - 不想懂得 (官方版MV)",
+  "view_count": 10967495,
+  "separation_model": "htdemucs_ft",
+  "files": {
+    "instrumental": "instrumental.wav",
+    "vocals": "vocals.wav",
+    "original": "original.mp3"
+  },
+  "lyrics": {
+    "source": "netease",
+    "has_timestamps": true
+  },
+  "built_at": "2026-04-23T01:53:05.960221"
+}

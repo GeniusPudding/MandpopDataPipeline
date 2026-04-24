@@ -1,0 +1,22 @@
+{
+  "title": "不染",
+  "artist": "YOYOROCK 滾石移動",
+  "category": "mandarin_pop",
+  "duration_sec": 326.0,
+  "key_offset": 0,
+  "gender_variant": null,
+  "youtube_url": "https://www.youtube.com/watch?v=dDV36GmFP20",
+  "youtube_title": "毛不易 Mao Buyi《不染 Unsullied》【香蜜沉沉燼如霜主題曲】官方動態歌詞MV(無損高音質) Ashes of Love OST",
+  "view_count": 34378571,
+  "separation_model": "htdemucs_ft",
+  "files": {
+    "instrumental": "instrumental.wav",
+    "vocals": "vocals.wav",
+    "original": "original.mp3"
+  },
+  "lyrics": {
+    "source": "netease",
+    "has_timestamps": true
+  },
+  "built_at": "2026-04-23T01:53:06.326863"
+}

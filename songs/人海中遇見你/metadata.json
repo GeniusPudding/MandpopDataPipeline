@@ -1,0 +1,22 @@
+{
+  "title": "人海中遇見你",
+  "artist": "Spacebar",
+  "category": "mandarin_pop",
+  "duration_sec": 228.0,
+  "key_offset": 0,
+  "gender_variant": null,
+  "youtube_url": "https://www.youtube.com/watch?v=D-H_V9CsCvA",
+  "youtube_title": "林育群-人海中遇見你(那些年，我們一起追的女孩電影原聲帶)",
+  "view_count": 2428076,
+  "separation_model": "htdemucs_ft",
+  "files": {
+    "instrumental": "instrumental.wav",
+    "vocals": "vocals.wav",
+    "original": "original.mp3"
+  },
+  "lyrics": {
+    "source": "netease",
+    "has_timestamps": true
+  },
+  "built_at": "2026-04-23T01:53:13.729926"
+}
