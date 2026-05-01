@@ -15,51 +15,48 @@
 | **StreetPerformerMaster** | instrumental.m4a + lyrics.lrc（iOS 點歌 app） | `../StreetPerformerMaster/` |
 | **VocalStudio**（未來） | instrumental.wav + vocals.wav + lyrics.lrc（錄音混音） | `../VocalStudio/` |
 
-## 資料集輸出路徑
+## 資料集結構
 
-所有處理結果存在 `DATASET_PATH`（預設 `D:\MandpopDataset`），不在 repo 內：
+程式碼和資料同在一個 repo。音訊檔 .gitignored（太大 + 版權），metadata + 歌詞被 track：
 
 ```
-D:\MandpopDataset\
-└── songs\
-    └── {歌名}\
-        ├── original.mp3         YouTube 原曲
-        ├── instrumental.wav     htdemucs_ft 去人聲
-        ├── vocals.wav           分離出的人聲
-        ├── lyrics.lrc           逐行對時歌詞（網易雲）
-        ├── lyrics.txt           純文本歌詞
-        └── metadata.json        完整 metadata
+D:\MandpopDataset\              (= this repo)
+├── pipeline.py                 主 CLI
+├── setup_env.py                一行安裝
+├── crawlers/                   YouTube 下載、歌詞爬蟲、排行榜爬蟲
+├── processors/                 Demucs 人聲分離
+├── master_songs.jsonl          歌單索引（tracked）
+├── songs/
+│   └── {歌名}/
+│       ├── metadata.json       tracked
+│       ├── lyrics.lrc          tracked（行級時間軸）
+│       ├── lyrics.txt          tracked（純文本）
+│       ├── instrumental.wav    .gitignored
+│       ├── vocals.wav          .gitignored
+│       └── original.mp3        .gitignored
+└── .gitignore                  排除 *.wav *.mp3 *.m4a
 ```
 
 ## 主要指令
 
 ```bash
 python pipeline.py add "告白氣球"                    # 加一首歌
-python pipeline.py add "新歌" --url "https://..."     # 指定 URL
-python pipeline.py batch repertoire.json              # 批次處理歌單
-python pipeline.py lyrics                             # 補爬歌詞
-python pipeline.py status                             # 看統計
-python pipeline.py export --request req.json --output ./out  # 匯出子集
+python pipeline.py add "告白氣球" "小幸運" "演員"     # 多首
+python pipeline.py add --from songs.txt              # 從檔案批次加
+python pipeline.py add --from songs.txt --lyrics-only # 只爬歌詞
+python pipeline.py discover --era all --add          # 從排行榜發掘歌曲
+python pipeline.py lyrics                            # 補爬歌詞
+python pipeline.py status                            # 統計
+python pipeline.py list --missing-lyrics             # 列出缺歌詞的
+python pipeline.py sync                              # 從磁碟同步 master list
+python pipeline.py export --request req.json --output ./out
 ```
 
-## 處理流程
-
-```
-song title
-  → YouTube search (yt-dlp ytsearch10, 取觀看數最高)
-  → download original.mp3
-  → Demucs htdemucs_ft → instrumental.wav + vocals.wav
-  → NetEase Cloud Music API → lyrics.lrc + lyrics.txt
-  → metadata.json
-```
-
-## 歌詞來源優先順序
+## 歌詞來源（fallback 鏈）
 
 1. **網易雲音樂 API**（有 LRC 時間軸，華語覆蓋最高）
-2. YouTube 自動字幕（fallback，有時間軸但品質差）
-3. （未來：KKBOX、WhisperX 從 vocals.wav 轉錄）
-
-注意：周杰倫的歌在網易雲沒有歌詞（版權撤走），需要其他來源。
+2. **QQ 音樂 API**（有 LRC，補網易雲缺的，尤其周杰倫）
+3. **YouTube 自動字幕**（有時間軸但品質差，最後手段）
 
 ## 技術棧
 
@@ -68,18 +65,12 @@ song title
 - **requests + BeautifulSoup**：歌詞爬蟲
 - **Python 3.10+**
 
-## 環境設定
-
-```bash
-cp .env.example .env
-# 編輯 .env 設定 DATASET_PATH
-pip install -r requirements.txt
-```
-
 ## 與消費者專案的介面
 
-消費者專案透過兩個東西跟本 repo 溝通：
-1. `.env` 裡的 `DATASET_PATH` — 指向同一個資料夾
-2. `export --request` — 消費者提交一份 JSON 列出要哪些歌 + 要哪些檔案
+兩個 repo 透過 `.env` 的 `DATASET_PATH` 指向同一個資料夾。消費者不需要 clone 本 repo，只要讀 `D:\MandpopDataset\` 裡的資料。
 
-消費者**不需要** clone 本 repo。只要 `D:\MandpopDataset\` 裡有資料，直接讀就好。
+## Git 規範
+
+- **commit 訊息不加 Co-Authored-By**。不要加任何 AI co-author 標記。
+- commit message 用英文，簡潔描述改了什麼。
+- 音訊檔（*.wav, *.mp3, *.m4a）永遠不進 git。
